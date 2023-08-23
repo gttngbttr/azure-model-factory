@@ -1,0 +1,14 @@
+{
+    "retraining":
+    {
+        "date": "2021-08-25"
+    }
+    "training":
+    {
+        "alpha": 0.5
+    },
+    "evaluation":
+    {
+
+    }
+}
